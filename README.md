@@ -9,6 +9,6 @@ Abaixo:
 
 ![cadastro](https://github.com/JsnEvt/JS_Finances/blob/main/img/cadastro.png)
 
-### Ao cadastrar uma transação, deve-se informar o título(transação), valor, informar se é uma receita ou despesa, clicando no botão correspondente,
-### e a categoria(que abrange a receita/despesa). 
-### Clicando em cadastrar, a tela de sumário é atualizada com o novo registro.
+##### Ao cadastrar uma transação, deve-se informar o título(transação), valor, informar se é uma receita ou despesa, clicando no botão correspondente,
+##### e a categoria(que abrange a receita/despesa), cujo descrição do campo fica à critério do usuário.
+##### Clicando em cadastrar, a tela de sumário é atualizada com o novo registro.
